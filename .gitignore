@@ -104,4 +104,8 @@ prod-build-optimization
 .dynamodb/
 
 # TernJS port file
+<<<<<<< HEAD
 .tern-port
+=======
+.tern-port
+>>>>>>> 147e48d7328a04f076a45f231300747bd97d1ad1
